@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013811762403",
+    "project_id": "todolistfirestore-ddbf5",
+    "storage_bucket": "todolistfirestore-ddbf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013811762403:android:798a25191cdecef89ee1d6",
+        "android_client_info": {
+          "package_name": "com.example.todolistfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZpyfL_Q5s5Mwj6ooEo6pREX9Si4JyGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
